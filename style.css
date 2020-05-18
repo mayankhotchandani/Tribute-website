@@ -1,0 +1,97 @@
+#navbar{
+    width: 100vw;
+    height: 70px;
+background-color: rgba(5, 9, 32);
+display: flex;
+color: rgb(164, 168, 187);
+}
+.body{
+    margin: 0 auto;
+}
+#heading{
+    font-size: 20px;
+    color: whitesmoke;
+}
+#descript{
+    font-size: 15px;
+    color: rgb(164, 168, 187);
+}
+#left{
+    position: absolute;
+    top: 20px;
+    right: 3px;
+}
+#follow{
+    background-color: rgb(164, 168, 187);
+    color: whitesmoke;
+    border: rgb(164, 168, 187);
+    border-radius: 1px;
+}
+/* .follow{
+    background-color: rgb(164, 168, 187);
+    height: 40px;
+    color: whitesmoke;
+}  */
+#like{
+    height: 40px;
+    width: 50px;
+    border-radius: 4px;
+
+    background-color: black;
+    color: rgb(164, 168, 187);
+    box-shadow: 2px rgb(164, 168, 187);
+}
+#cv{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(164, 168, 187);
+    color: whitesmoke;
+    border: rgb(164, 168, 187);
+    border-radius: 4px;
+    font-weight: 800;
+    font-size: 0.7rem;
+
+}
+#su{
+    height: 40px;
+    width: 80px;
+    background-color: rgb(71, 255, 132);
+    color: black;
+    border: rgb(164, 168, 187);
+    border-radius: 4px;
+    font-weight: 800;
+
+}
+#li{
+    height: 40px;
+    width: 70px;
+    background-color: rgb(62, 63, 68);
+    color: rgb(172, 172, 172);
+    border: rgb(62, 63, 68);
+    border-radius: 4px;
+    font-weight: 800;
+    font-size: 0.7rem;
+}
+#name{
+    font-size: 3rem;
+    font-style: bolder;
+    font-weight: 800;
+    margin: 20px;
+}
+.desc{
+    margin: 20px;
+}
+.img1{
+    margin-left: 40px;
+    width: 85vw;
+}
+figcaption{
+    margin-left: 50px;
+}
+.list{
+    margin-left: 50px;
+    margin-right: 200px;
+}
+a{
+    color: blue;
+}
